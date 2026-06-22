@@ -1,0 +1,11 @@
+Requisitos para o uso do projeto:
+
+A versão do Python recomendada é 3.13.7.
+Para rodar o código é recomendado utilizar um ambiente Jupyter.
+
+As bibliotecas e códigos são todos instalados no próprio código, sendo elas:
+- pandas (`import pandas as pd`): manipulação e análise de dados (DataFrames, leitura/tratamento de dados).
+- matplotlib.pyplot (`import matplotlib.pyplot as plt`) — criação de gráficos e visualizações.
+- customtkinter (`import customtkinter as ctk`) — construção de interface gráfica (GUI) com um visual mais moderno, baseado no Tkinter.
+- PIL (Pillow) (`from PIL import Image`) — manipulação de imagens (abrir, redimensionar, exibir na interface).
+
