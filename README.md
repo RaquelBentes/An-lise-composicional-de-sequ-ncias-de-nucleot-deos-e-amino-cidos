@@ -45,13 +45,21 @@ Estudante de bacharelado em Ciência e Tecnologia na Ilum Escola de Ciência.
 
 ## Referências
 ALMEIDA, James Moraes de. Práticas em Ciência de Dados: Pandas. Campinas: Ilum Escola de Ciência (CNPEM), 2026a. Notebook Jupyter (material didático não publicado).
+  
 ALMEIDA, James Moraes de. Processamento de strings. Campinas: Ilum Escola de Ciência (CNPEM), 2026b. Notebook Jupyter (material didático não publicado).
+
 CASSAR, Daniel R. Desempacotando listas e dicionários com operadores estrela. Campinas: Ilum Escola de Ciência (CNPEM), 2026. Notebook Jupyter (material didático não publicado).
+
 ELDER, John. Entry Widgets in CustomTkinter – Tkinter CustomTkinter 3. Produção: Codemy.com. [S. l.], 22 ago. 2023a. 1 vídeo. Disponível em: https://youtu.be/mwalgzuEfvw.
+
 ELDER, John. Images in CustomTkinter – Tkinter CustomTkinter 17. Produção: Codemy.com. [S. l.], 5 dez. 2023b. 1 vídeo. Disponível em: https://youtu.be/GMHtpH68Glo.
+
 ELDER, John. Pack Vs Grid For Placement – Intro To Tkinter 3. Produção: Codemy.com. [S. l.], 12 mar. 2024. 1 vídeo. Disponível em: https://youtu.be/m9peQh4tu9g.
+
 MARIANO, Diego. Biopython: manipulando dados biológicos usando Python e Colab. BIOINFO: Revista brasileira de bioinformática e biologia computacional, julho/2021. Disponível em: https://bioinfo.com.br/biopython-uma-breve-introducao-a-manipulacao-de-dados-biologicos-em-python-usando-colab/]
+
 MONUTTI, Diego. Tkinter no Python: guia completo – crie interfaces do zero. Hashtag Treinamentos, 18 maio 2026. Disponível em: https://www.hashtagtreinamentos.com/tkinter-no-python#customtkinter.
+
 SCHIMANSKY, T. Official Documentation And Tutorial | CustomTkinter. Disponível em: <https://customtkinter.tomschimansky.com/>.
 ### Link das interações com Inteligência Artificial:
 Observação: alguns links se perderam ao longo do desenvolvimento do projeto.
