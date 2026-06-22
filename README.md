@@ -64,4 +64,5 @@ SCHIMANSKY, T. **Official Documentation And Tutorial | CustomTkinter**. Disponí
 ### Link das interações com Inteligência Artificial:
 Observação: alguns links se perderam ao longo do desenvolvimento do projeto.
 https://copilot.microsoft.com/shares/6ZkDqfZZCKQnPPR62XnGB
+
 https://claude.ai/share/f305e56a-1345-4b3e-a01c-b852df6fb3ca
