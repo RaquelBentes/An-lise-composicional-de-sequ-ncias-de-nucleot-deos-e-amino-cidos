@@ -11,19 +11,11 @@ Para o uso adequado, é necessário inserir a sequência que o usuário deseja a
 Há um total de cinco botões disponíveis, sendo eles referentes às seguintes funcionalidades: reverso complementar, transcrição, tradução, porcentagem do conteúdo GC e gráfico do conteúdo GC, que serão abordados com maior descrição mais a frente.
 
 ## Funcionalidade
--'Reverso complementar': Inverte a sequência e retorna a base complementar da que se encontra na posição. Adenina(A) é complementar da Timina(T) e Guanina(G) é complementar da Citosina(C), e vice-versa.
-
-
--'Transcrição': Substitui a Timina (T) por Uracila (U) para converter a sequência de DNA em RNA.
-
-
--'Tradução': Lê a sequência em trincas e retorna o códon correspondente.
-
-
--'Porcentagem do conteúdo GC': Indica a porcentagem de bases nitrogenadas formadas por citosina e guanina na sequência de DNA ou RNA.
-
-
--'Gráfico do conteúdo GC': Indica graficamente essa porcentagem em janelas de 10 bases nitrogenadas por vez.
+  -'Reverso complementar': Inverte a sequência e retorna a base complementar da que se encontra na posição. Adenina(A) é complementar da Timina(T) e Guanina(G) é complementar da Citosina(C), e vice-versa.
+  -'Transcrição': Substitui a Timina (T) por Uracila (U) para converter a sequência de DNA em RNA.
+  -'Tradução': Lê a sequência em trincas e retorna o códon correspondente.
+  -'Porcentagem do conteúdo GC': Indica a porcentagem de bases nitrogenadas formadas por citosina e guanina na sequência de DNA ou RNA.
+  -'Gráfico do conteúdo GC': Indica graficamente essa porcentagem em janelas de 10 bases nitrogenadas por vez.
 
 ## Tecnologias Utilizadas
 #### Ambiente:
