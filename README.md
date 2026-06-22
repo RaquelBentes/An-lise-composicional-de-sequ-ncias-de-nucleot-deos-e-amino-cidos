@@ -7,15 +7,15 @@ Esse projeto foi desenvolvido para a disciplina de Práticas em ciências de dad
 
 ## Instalação e instruções
 O código pode ser acessado ao instalar o arquivo disponibilizado no Github e rodado em linguagem Python na versão 3.13.7. Para utilizar a interface é necessário rodar todas as células na ordem em que foram escritas, permitindo um funcionamento adequado.
-Para o uso adequado, é necessário inserir a sequência que o usuário deseja analisar no espaço indicado e, em seguida, selecionar o botão referente à aplicação que deseja.
-Há um total de cinco botões disponíveis, sendo eles referentes às seguintes funcionalidades: reverso complementar, transcrição, tradução, porcentagem do conteúdo GC e gráfico do conteúdo GC, que serão abordados com maior descrição mais a frente.
+Para o uso, é necessário inserir a sequência que o usuário deseja analisar no espaço indicado e, em seguida, selecionar o botão referente à aplicação.
+Há um total de cinco botões disponíveis, sendo eles referentes às seguintes funcionalidades: reverso complementar, transcrição, tradução, porcentagem do conteúdo GC e gráfico do conteúdo GC, que serão abordados com maior descrição a frente.
 
 ## Funcionalidade
-  -'Reverso complementar': Inverte a sequência e retorna a base complementar da que se encontra na posição. Adenina(A) é complementar da Timina(T) e Guanina(G) é complementar da Citosina(C), e vice-versa.
-  -'Transcrição': Substitui a Timina (T) por Uracila (U) para converter a sequência de DNA em RNA.
-  -'Tradução': Lê a sequência em trincas e retorna o códon correspondente.
-  -'Porcentagem do conteúdo GC': Indica a porcentagem de bases nitrogenadas formadas por citosina e guanina na sequência de DNA ou RNA.
-  -'Gráfico do conteúdo GC': Indica graficamente essa porcentagem em janelas de 10 bases nitrogenadas por vez.
+  -**Reverso complementar**: Inverte a sequência e retorna a base complementar da que se encontra na posição. Adenina(A) é complementar da Timina(T) e Guanina(G) é complementar da Citosina(C), e vice-versa.
+  -**Transcrição**: Substitui a Timina (T) por Uracila (U) para converter a sequência de DNA em RNA.
+  -**Tradução**: Lê a sequência em trincas e retorna o códon correspondente.
+  -**Porcentagem do conteúdo GC**: Indica a porcentagem de bases nitrogenadas formadas por citosina e guanina na sequência de DNA ou RNA.
+  -**Gráfico do conteúdo GC**: Indica graficamente essa porcentagem em janelas de 10 bases nitrogenadas por vez.
 
 ## Tecnologias Utilizadas
 #### Ambiente:
@@ -30,7 +30,7 @@ As inteligencias artificiais Microsoft Copilot e Claude foi utilizada ao longo d
   - Apresentar o Single letter code de cada aminoácido e codon correspondente;
   - Auxiliar no debugging do código;
   - Esclarecimento de dúvidas.
----
+    
 ## Professores orientadores
 ### Leandro Nascimento Lemos
 Doutor em Ecologia Molecular pela USP, com pós-doutorados no LNCC, na UNICAMP e na Universidade de Viena. Atualmente, atua como Professor Pesquisador Adjunto II na Ilum Escola de Ciência (CNPEM), em Campinas.
