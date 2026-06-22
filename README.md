@@ -4,19 +4,19 @@
 
 ## Descrição do projeto
 Esse projeto foi desenvolvido para a disciplina de Práticas em ciências de dados do curso de Bacharelado em Ciência e Tecnologia da Ilum Escola de Ciência, onde foi proposto criar um código que desafiasse o discente que o desenvolvesse. Para isso, decidi criar uma interface que tem como objetivo analisar a composição de sequências de nucleotídeos e aminoácidos, realizando transcrição, tradução, geração do reverso complementar e cálculo do conteúdo gc, a fim de compreender características estruturais e funcionais das sequências biológicas.
----
+
 ## Instalação e instruções
 O código pode ser acessado ao instalar o arquivo disponibilizado no Github e rodado em linguagem Python na versão 3.13.7. Para utilizar a interface é necessário rodar todas as células na ordem em que foram escritas, permitindo um funcionamento adequado.
 Para o uso adequado, é necessário inserir a sequência que o usuário deseja analisar no espaço indicado e, em seguida, selecionar o botão referente à aplicação que deseja.
 Há um total de cinco botões disponíveis, sendo eles referentes às seguintes funcionalidades: reverso complementar, transcrição, tradução, porcentagem do conteúdo GC e gráfico do conteúdo GC, que serão abordados com maior descrição mais a frente.
----
+
 ## Funcionalidade
 'Reverso complementar': Inverte a sequência e retorna a base complementar da que se encontra na posição. Adenina(A) é complementar da Timina(T) e Guanina(G) é complementar da Citosina(C), e vice-versa.
 'Transcrição': Substitui a Timina (T) por Uracila (U) para converter a sequência de DNA em RNA.
 'Tradução': Lê a sequência em trincas e retorna o códon correspondente.
 'Porcentagem do conteúdo GC': Indica a porcentagem de bases nitrogenadas formadas por citosina e guanina na sequência de DNA ou RNA.
 'Gráfico do conteúdo GC': Indica graficamente essa porcentagem em janelas de 10 bases nitrogenadas por vez.
----
+
 ## Tecnologias Utilizadas
 #### Ambiente:
   - Jupyter Notebook: utilizado para desenvolver e executar o código.
@@ -38,11 +38,11 @@ Doutor em Ecologia Molecular pela USP, com pós-doutorados no LNCC, na UNICAMP e
 Doutor em Ciência e Engenharia de Materiais pela Universidade Federal de São Carlos (UFSCar, 2014). Atualmente é Professor Assistente no Bacharelado em Ciência e Tecnologia da Ilum Escola de Ciência, parte do Centro Nacional de Pesquisa em Energia e Materiais (CNPEM)
 ### James Moraes de Almeida
 Doutor em Nanociências e Materiais Avançados pela UFABC (2012), com pós-doutorados na própria UFABC (2012–2015), na EPFL, na Suíça (2015–2017), e na USP (2017–2019). Atualmente, é professor na Ilum – Escola de Ciência do CNPEM.
----
+
 ## Autoria
 ### Raquel Bentes Lima
 Estudante de bacharelado em Ciência e Tecnologia na Ilum Escola de Ciência.
----
+
 ## Referências
 ALMEIDA, James Moraes de. Práticas em Ciência de Dados: Pandas. Campinas: Ilum Escola de Ciência (CNPEM), 2026a. Notebook Jupyter (material didático não publicado).
 ALMEIDA, James Moraes de. Processamento de strings. Campinas: Ilum Escola de Ciência (CNPEM), 2026b. Notebook Jupyter (material didático não publicado).
